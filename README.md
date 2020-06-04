@@ -50,7 +50,7 @@ IPCount ipCount = new IPCount(filePath);
 ```
 
 ## Feedback
-Посредственно знаю Java, буду рада любому фидбэку!
+Буду рада любому фидбэку!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
